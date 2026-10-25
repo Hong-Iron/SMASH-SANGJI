@@ -20,5 +20,62 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "본관": {
+      "style": "glass",
+      "wall": "#c9cdd0",
+      "glass": "#3f6a8f",
+      "frame": "#9aa2a8"
+    },
+    "동악관": {
+      "style": "brick",
+      "wall": "#6e3a33",
+      "glass": "#2e3a42",
+      "frame": "#c8c4bc"
+    },
+    "민주관": {
+      "style": "tan",
+      "wall": "#c2b36e",
+      "glass": "#3b4a50",
+      "frame": "#e6e1cf"
+    },
+    "이공과대학 별관": {
+      "style": "concrete",
+      "wall": "#e6e1d2",
+      "glass": "#3e4c55",
+      "frame": "#2d5fa0"
+    },
+    "학술정보원": {
+      "style": "stone",
+      "wall": "#e2dcc8",
+      "glass": "#3a4650",
+      "frame": "#b9b3a2"
+    },
+    "체육관": {
+      "style": "concrete",
+      "wall": "#e8e8e2",
+      "glass": "#3c4a4c",
+      "frame": "#8fb0a0"
+    },
+    "믿음관": {
+      "style": "brick",
+      "wall": "#8a4a3a",
+      "glass": "#4a6670",
+      "frame": "#c9c6c0"
+    },
+    "영서관": {
+      "style": "glass",
+      "wall": "#cdbb98",
+      "glass": "#3e7f86",
+      "frame": "#e2e2de"
+    },
+    "전통산업진흥센터": {
+      "style": "glass",
+      "wall": "#d0d4d8",
+      "glass": "#4f86b3",
+      "frame": "#9aa0a6"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
